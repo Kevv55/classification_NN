@@ -35,7 +35,9 @@ https://www.tensorflow.org/api_docs/python/tf/keras/losses/CategoricalCrossentro
 https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam
 
 After the training is done. This is how confident the model is that the given image which it had never seen before is a boot:
+
 ![Boot_graph](https://github.com/Kevv55/classification_NN/assets/100497778/b199bfc3-542f-4eef-a55f-c085209d15f7)
 
 Here is the confidence level for other images which were never seen before:
+
 ![classification_performance](https://github.com/Kevv55/classification_NN/assets/100497778/b8b2a849-36b4-48b1-985a-e72765cb5c9d)
