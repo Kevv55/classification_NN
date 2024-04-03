@@ -18,12 +18,15 @@ The clothing categories are placed in an array, here is what each index represen
 
 Explanation of the model:
 This is a 28x28 pixel image of a boot.
+
 ![bootSimple](https://github.com/Kevv55/classification_NN/assets/100497778/8911436f-bcdc-4256-a2f0-d3ad1c68fb16)
 
 The following image shows the approach taken by the model. Here we can see the pixelization of the boot. The model uses this pixelization to learn patterns and make its predictions of which clothing category the boot belongs to.
+
 ![Image_pixelization](https://github.com/Kevv55/classification_NN/assets/100497778/58cb8112-480d-4bac-be72-9d79e29af840)
 
 This is the rest of training data used to train the model:
+
 ![training_data](https://github.com/Kevv55/classification_NN/assets/100497778/553662cd-67ec-43e4-968c-64855965b44d)
 
 
